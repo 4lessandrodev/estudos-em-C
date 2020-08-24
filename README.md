@@ -1,5 +1,7 @@
 # estudos-em-C
-Aprofundando os conhecimentos me linguagem de baixo nível C e C++ 
+Aprofundando os conhecimentos em linguagem de baixo nível C e C++
+
+Meu objetivo é aprender mais sobre C e C++ para poder criar algoritmos e operar no mercado financeiro, fazendo robôs de operação MT5
 
 ##### Para compilar um arquivo
 
