@@ -6,6 +6,6 @@ Aprofundando os conhecimentos me linguagem de baixo nível C e C++
 ###### Será preciso:
 
 - minGW compiler 
-- Para compilar execute o comando ` gcc nomedoarquivo.c -o nomecompilar.exe `
+- Para compilar execute o comando ` gcc nomedoarquivo.c -o nomecompilado.exe `
 - Execute o arquivo `./nomecompilado.exe`
 
